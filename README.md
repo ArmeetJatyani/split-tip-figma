@@ -1,4 +1,4 @@
-# split-tip-figma
+# tip-split-figma
 A web design I made for a tip splitting app that could be used at restaurants!
 
 ## Front-End-Mentor
